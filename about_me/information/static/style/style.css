@@ -1,0 +1,35 @@
+body {
+    background: url('../img/background.png') no-repeat;
+    font-family: 'Raleway';
+    color: rgb(153, 153, 153);
+}
+
+.lr {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    margin: 20px 20px 20px 0;
+}
+
+.info {
+    column-gap: 20px;
+}
+
+.name {
+    margin-bottom: 50px;
+    font-size: 68px;
+}
+
+.exp {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.ab_hob {
+    line-height: 32px;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+}
